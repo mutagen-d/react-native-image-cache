@@ -1,0 +1,39 @@
+{
+  "name": "@mutagen-d/react-native-image-cache",
+  "version": "0.1.0",
+  "description": "Caching images to disk",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rimraf dist && tsc -p tsconfig.prod.json",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutagen-d/react-native-image-cache.git"
+  },
+  "keywords": [
+    "react-native",
+    "image",
+    "cache",
+    "download"
+  ],
+  "author": "mutagen-d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutagen-d/react-native-image-cache/issues"
+  },
+  "homepage": "https://github.com/mutagen-d/react-native-image-cache#readme",
+  "dependencies": {
+    "@mutagen-d/react-native-file-cache": "^0.1.2"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.64.12",
+    "@types/rn-fetch-blob": "^1.2.2",
+    "react": "^17.0.2",
+    "react-native": "^0.64.2",
+    "rimraf": "^3.0.2",
+    "rn-fetch-blob": "0.12.0",
+    "typescript": "^4.3.5"
+  }
+}
