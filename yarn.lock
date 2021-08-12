@@ -699,10 +699,10 @@
   resolved "https://registry.yarnpkg.com/@mutagen-d/path/-/path-0.2.0.tgz#2d038acb94e8a832c26d37467bb274b294c52cec"
   integrity sha512-nv0hjV0KAKHkVLIYKlK2RFMVfdU6XHfmhFK4ZawU2qPtz9N5MNtLoiA7kLlmtNR3Ox4RVx5etacpuPWBZSmsxA==
 
-"@mutagen-d/react-native-file-cache@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@mutagen-d/react-native-file-cache/-/react-native-file-cache-0.1.2.tgz#03c0f22e485b47cde5b2dad6e85731653de23d62"
-  integrity sha512-JtTnMdPt18eEU1BYXM3JkiEwCsy9jfAlhdXZZXNtz2bdy9TWSeTtpwAzz9UXe+Y6F6hHVYS0ipK8i0Ka3b0SFw==
+"@mutagen-d/react-native-file-cache@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@mutagen-d/react-native-file-cache/-/react-native-file-cache-0.2.0.tgz#1f559bfd097ccf64524719a2215ef4d953c9e67b"
+  integrity sha512-tTS1/Wy8HH7YR7h8oG9IaN8uQWnp49PfSCfM+MzvmlilvshB4ulYKP/H0jZGD4Wwnj2ffImh+B3ZT9o0jkQbwg==
   dependencies:
     "@mutagen-d/path" "^0.2.0"
     crypto-js "^4.1.1"

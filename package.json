@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/mutagen-d/react-native-image-cache#readme",
   "dependencies": {
-    "@mutagen-d/react-native-file-cache": "^0.1.4"
+    "@mutagen-d/react-native-file-cache": "^0.2.0"
   },
   "devDependencies": {
     "@types/react-native": "^0.64.12",
